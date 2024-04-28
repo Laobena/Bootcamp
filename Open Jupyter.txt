@@ -1,3 +1,5 @@
 python -m notebook
 
 pip3 install -r reg.txt
+
+C:\Users\VJ_la\OneDrive\Desktop\Bootcamp\req.txt
