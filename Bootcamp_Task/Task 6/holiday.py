@@ -1,3 +1,4 @@
+# Printing Welcome to the user
 print("Welcome to Holiday calculator\n")
 
 city_list = ["Barcelona", "London", "Rome", "Amsterdam", "Istanbul"]
