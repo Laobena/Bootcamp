@@ -1,7 +1,5 @@
 
-# Project Title
-
-Bootcamp Tasks
+# Bootcamp Tasks
 
 ## Description
 
