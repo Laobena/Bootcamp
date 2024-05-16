@@ -1,0 +1,23 @@
+# Data Visualization Tasks
+
+## Overview
+This repository contains tasks and examples focused on data visualization using Matplotlib and Seaborn libraries in Python. The tasks cover various plotting techniques and provide guidance for beginners in creating visualizations for data analysis.
+
+## Tasks Included
+1. Introduction to Matplotlib:
+    - Installation instructions
+    - Creating a basic line plot using Matplotlib
+    - Guidelines for working with Matplotlib
+
+2. Exploring Seaborn:
+    - Understanding Seaborn's role in data visualization
+    - Practical examples with Seaborn for more advanced plots like scatter plots and line plots
+
+3. Practical Task:
+    - Generating specific graphs from a given dataset (Cars93.csv)
+    - Answering questions based on the visualizations created
+
+## File Structure
+- `data_viz_task.ipynb`: Jupyter notebook containing practical task instructions and code
+- `Examples/`: Contains example files demonstrating basic plotting with Matplotlib and Seaborn
+- `README.md`: Overview of tasks and instructions

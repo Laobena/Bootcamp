@@ -14,9 +14,10 @@ total_stock_value = 0
 for item in menu:
     # Check if the item exists in both stock and price dictionaries
     if item in stock and item in price:
-        # Calculate the total stock value by multiplying the stock quantity with the price,
-        # and add it to the total_stock_value
-        total_stock_value += stock[item] * price[item]
+        # Calculate the value of the current item by multiplying the stock quantity with the price
+        item_value = stock[item] * price[item]
+        # Add the item_value to the total_stock_value
+        total_stock_value += item_value
 
 # Print the total stock value
 print("Total stock value:", round(total_stock_value, 2))

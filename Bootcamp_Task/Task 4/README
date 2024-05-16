@@ -1,0 +1,16 @@
+# Practical Task 1
+
+Follow these steps for Task 1:
+
+1. Create a file called `while.py`.
+2. Write a program that continuously asks the user to enter a number.
+3. When the user enters "-1", the program should stop requesting the user to enter a number.
+4. The program must then calculate the average of the numbers entered, excluding the "-1".
+5. Use the `while` loop repetition structure to implement the program.
+
+# Practical Task 2
+
+Follow these steps for Task 2:
+
+1. Create a new Python file in this folder called `pattern.py`.
+2. Write code to output the patterns shown below, using an if-else statement in combination with a single for loop

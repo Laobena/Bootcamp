@@ -1,0 +1,17 @@
+# Data Analysis - Data Cleaning Tasks
+
+This repository contains materials related to data cleaning tasks in data analysis.
+
+## Overview
+The tasks focus on practical aspects of data cleaning essential for effective data analysis. Techniques such as dropping columns, replacing values, and manipulating data are covered in detail.
+
+## Tasks
+1. **Task 1: Data Cleaning Basics**
+   - Description: Introduction to data cleaning, importance in data analysis.
+   - Topics: Dropping columns, replacing values, accessing specific records.
+   - Resources: Jupyter Notebook - `data_cleaning_example.ipynb`.
+
+2. **Task 2: Auto-graded Task**
+   - Description: Cleaning the 'country' column and handling date entries in `store_income_data_task.csv`.
+   - Actions: Lowercasing entries, removing whitespaces, creating a 'days_ago' column.
+   - Key Tools: `fuzzywuzzy`, `chardet` libraries for data cleaning.

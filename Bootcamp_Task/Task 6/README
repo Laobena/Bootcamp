@@ -1,0 +1,28 @@
+# Programming with User-defined Functions
+
+This repository contains materials and a practical task related to programming with user-defined functions in Python.
+
+## Contents
+- **Introduction**: Overview of user-defined functions and their importance in programming.
+- **Function Basics**: Explanation of defining functions, working with parameters, and using return statements.
+- **Scopes and Default Values**: Understanding function scopes and setting default values for function arguments.
+- **Practical Task**: Instructions for a practical task to calculate a user's total holiday cost using user-defined functions.
+
+## Key Takeaways
+- Functions are essential for modularizing code and improving reusability.
+- Understanding function scopes helps in managing variables within functions.
+- Setting default values for function parameters allows for flexible function calls.
+- Practical tasks provide hands-on experience applying user-defined functions in Python.
+
+## Practical Task: Calculating Total Holiday Cost
+
+### Instructions
+1. **File Creation**: Create a Python file named `holiday.py`.
+2. **Input**: Gather user inputs for city of flight, number of nights staying at a hotel, and number of days for car rental.
+3. **Functions**:
+   - `hotel_cost(num_nights)`: Calculate the total cost for the hotel stay.
+   - `plane_cost(city_flight)`: Determine the cost of the flight based on the selected city.
+   - `car_rental(rental_days)`: Calculate the total cost of car rental.
+   - `holiday_cost()`: Compute the total holiday cost using the above functions.
+4. **Output**: Print out details about the holiday costs in a readable format.
+5. **Experimentation**: Run the program with different input combinations to test its compatibility with different options.

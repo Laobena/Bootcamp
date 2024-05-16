@@ -1,0 +1,30 @@
+# Practical Tasks README
+
+This repository contains solutions for a series of practical tasks. Each task involves creating scripts and files to perform specific actions. Below, you will find details for each task and how to navigate through the solutions provided.
+
+## Practical Task 1
+
+In this task, you will create a script file called `file_cd` and a batch file called `ifExample`. These scripts involve creating folders, navigating directories, and applying conditional logic to manage folder creation.
+
+Follow the instructions in the respective files to complete the task successfully.
+
+## Practical Task 2
+
+For the second task, you will work on a Python script named `hello_world.py`. The script interacts with users, taking their name and age as input and printing out the information provided. It concludes by printing the string "Hello World!" on a new line.
+
+Refer to the comments in the Python script for guidance on executing the required actions.
+
+## Practical Task 3
+
+For the third task, create a new Python file in the Dropbox folder for this task and name it `details.py`. This script will gather user information including Name, Age, House number, and Street name using the `input()` command.
+
+Follow these steps:
+- Provide pseudocode as comments in your Python file, outlining how you will solve this problem.
+- Use the `input()` command to collect the user's details.
+- Print out a single sentence containing all the user's details.
+
+## Practical Task 4
+
+The fourth practical task involves creating a Python script named `conversion.py`. This script focuses on variable declaration and conversion operations. You will work with various data types and convert values as instructed within the script.
+
+Refer to the comments in the Python script for guidance on completing the conversion operations.

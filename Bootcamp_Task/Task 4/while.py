@@ -35,4 +35,3 @@ if count != 0:
     average = total / count
     print(f"Average of the entered numbers: {average}")  # Print the average after all numbers are entered
 
-        
