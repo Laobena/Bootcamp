@@ -3,7 +3,13 @@
 
 ## Description
 
-This repository contains code and documentation for completing various tasks as part of a bootcamp program. Each task has a unique number, description, status, review dates, and progress score.
+Description
+
+This repository contains code and documentation for completing various tasks as part of a bootcamp program. Each task has a unique number, description, status, review dates, and progress score. 
+The repository also includes a README file for each task that provides additional information and instructions.
+
+For more details about the bootcamp program, visit here.
+https://www.hyperiondev.com/portfolio/VL24010013238/
 
 ## Table of Contents
 
