@@ -1,0 +1,32 @@
+# Natural Language Processing with SpaCy
+
+## Description
+This README provides an overview of tasks related to Natural Language Processing (NLP) using SpaCy. The tasks cover various aspects of NLP, including sentiment analysis, text classification, and practical implementations.
+
+## Tasks Overview
+1. **Sentiment Analysis Model Implementation**
+    - Load the en_core_web_sm SpaCy model for NLP tasks.
+    - Preprocess text data by removing stopwords and cleaning text.
+    - Design a function for sentiment analysis.
+    - Test the sentiment analysis on sample product reviews.
+
+2. **Working with Vectors**
+    - Compare similarities between words using tokenization.
+    - Detect similarities and differences using SpaCy's features.
+    - Use advanced language models for improved similarity assessments.
+
+3. **Question Answering Systems**
+    - Understand NLP question-answering systems.
+    - Test models on sample questions using SpaCy library capabilities.
+
+4. **Practical Task: Sentiment Analysis on Product Reviews**
+    - Utilize SpaCy for sentiment analysis on a dataset of product reviews.
+    - Preprocess text by removing stopwords and cleaning data.
+    - Design and implement a sentiment analysis function.
+    - Evaluate results and summarize findings in a report.
+
+## Instructions
+- Ensure SpaCy library and necessary language models are installed.
+- Follow pre-processing guidelines for data cleaning and analysis.
+- Test and evaluate sentiment analysis models on sample reviews.
+- Generate a detailed report summarising the dataset, preprocessing steps, and model evaluations.

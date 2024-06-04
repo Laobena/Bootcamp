@@ -1,0 +1,22 @@
+# Supervised Learning - Random Forests Tasks
+
+This repository contains material related to supervised learning techniques focusing on Random Forests, Ensemble methods, Bagging, and Boosting. The tasks covered in this document aim to help understand these concepts in the context of machine learning.
+
+## Content
+
+- **Ensemble Methods**: Introduction to ensemble methods, showcasing how they aggregate predictions from multiple classifiers to improve model performance and reduce variance.
+- **Bootstrapping**: Explanation of bootstrapping, a technique used in ensemble methods to create diverse models by training on different subsets of the data.
+- **Bagging**: Details about bagging, which combines predictions from models trained on various data subsets to improve overall accuracy and robustness.
+- **Random Forests**: Discussion about Random Forests, highlighting how they mitigate correlation between decision trees using random feature selection.
+- **Boosting**: Overview of boosting, a technique that corrects earlier models' errors by incorporating residuals into subsequent models for enhanced performance.
+
+## Practical Task
+- Implementing bagged, random forest, and boosted tree models for the Titanic dataset.
+- Tuning parameters like `n_estimators` and `max_depth` for improved model accuracy.
+- Identifying the feature contributing the most to predicting passenger survival in the Random Forest model.
+- Evaluating model performance and determining the best-performing model with optimal parameters.
+
+## Instructions
+- Follow the instructions in the Jupyter Notebook provided to complete the practical task effectively.
+- Experiment with different models and tune hyperparameters to achieve better results.
+- Report the accuracy of each model and highlight the best performing model along with its optimal parameter values.

@@ -1,0 +1,31 @@
+# Multiple Linear Regression in Supervised Learning
+
+This repository contains materials related to understanding and implementing multiple linear regression in supervised learning, focusing on modeling the impact of multiple variables on an outcome simultaneously.
+
+## Tasks Overview
+
+1. **Introduction to Multiple Linear Regression**: Introduces the concept of multiple linear regression as an extension of simple linear regression to model the impact of multiple variables on the outcome simultaneously.
+
+2. **Application of Multiple Linear Regression**: Discusses how to apply multiple linear regression using sklearn, featuring a practical example of predicting sales based on advertising data.
+
+3. **Training and Test Data in Machine Learning**: Explains the significance of training and test datasets in machine learning, including dataset splitting, maintaining data distribution, and evaluating model performance.
+
+4. **Handling Data Distribution in Training and Testing Sets**: Explores techniques to ensure a balanced distribution of labels in both training and testing datasets for accurate model evaluation.
+
+5. **Training and Test Error in Regression**: Details the concept of training and test errors in regression models, emphasizing the importance of test error for model assessment.
+
+6. **Measuring Error and Model Evaluation**: Describes different ways to measure error in regression models, such as Root Mean Squared Error and R-squared for model evaluation.
+
+7. **Jupyter Notebook Practical Tasks**: Provides practical tasks in a Jupyter Notebook, including dataset loading, model training, prediction generation, and evaluating model performance using R-squared.
+
+8. **Implementation Task**: Outlines steps to create a Jupyter Notebook named `diabetes_regression.ipynb` for predicting a person's condition progression using multiple linear regression.
+
+## Instructions for Practical Implementation
+
+- Clone or download the repository.
+- Utilize Jupyter Notebook for practical tasks mentioned in the respective notebooks.
+- Ensure necessary dependencies like sklearn are installed for model implementation.
+
+Feel free to explore the notebooks and engage with the materials to enhance your understanding of multiple linear regression in supervised learning.
+
+You can customise this template further with links, images, or additional details as needed.

@@ -1,0 +1,21 @@
+# Unsupervised Learning - K-means Clustering Task
+
+## Description
+This repository houses materials pertaining to the Unsupervised Learning task focusing on K-means Clustering. Participants will delve into the realm of unsupervised learning, specifically exploring the K-means clustering algorithm and its application in data analysis.
+
+## Contents
+- **Kmeans.ipynb**: Jupyter notebook featuring practical tasks related to the `Country-data.csv` dataset.
+
+## Task Overview
+Participants will engage in various tasks:
+1. Load and preprocess the `Country-data.csv` dataset.
+2. Explore different scatter plots to identify potential variable combinations for clustering.
+3. Normalize the dataset using MinMaxScaler from scikit-learn.
+4. Determine the optimal number of clusters using the elbow method and silhouette scores for evaluation.
+5. Fit the scaled dataset to the optimal number of clusters and analyze the silhouette score.
+6. Visualize clusters based on different variables such as Child mortality vs. GDPP and Inflation vs. GDPP.
+7. Label country groups based on the identified clusters, providing reasoned justifications.
+
+## Additional Resources
+- The provided PDF material offers in-depth insights into unsupervised learning and practical guidance on implementing K-means clustering.
+- Participants can utilise the resources within this repository to enhance their understanding of unsupervised learning concepts.

@@ -1,0 +1,16 @@
+# Exploring Neural Networks
+
+This repository contains materials for understanding and implementing neural networks. The content explores the fundamentals of neural networks, their structure, and practical applications.
+
+## Tasks
+1. **Introduction to Neural Networks**
+   - Learn about the basics of neural networks and their importance in modern computing.
+
+2. **Building Neural Networks**
+   - Implement a simple feedforward neural network using Python, understanding the components and functions involved.
+
+3. **Task: Logic Gate Modeling**
+   - Explore modeling logic gates (AND, NOR, NAND, XOR) using neural networks for pattern recognition and decision-making.
+
+4. **Practical Assignment**
+   - Hands-on tasks to implement neural network models for various logic gates, enhancing understanding of network architectures.

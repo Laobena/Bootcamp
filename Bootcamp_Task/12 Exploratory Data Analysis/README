@@ -1,0 +1,18 @@
+# Exploratory Data Analysis Tasks
+
+This repository contains resources and tasks related to Exploratory Data Analysis (EDA) in data science. The tasks focus on understanding the principles of EDA and applying them to real-world datasets.
+
+## Task 1: Introduction to EDA
+- **File:** `Exploratory Data Analysis.pdf`
+- **Description:** Introduction to the concept of EDA, its importance, and key objectives.
+- **Tasks:** Understanding patterns, anomalies, outliers, and data preparation.
+
+## Task 2: Practical EDA Task
+- **File:** `titanic.ipynb`
+- **Description:** Conduct in-depth EDA on the Titanic dataset provided in the task.
+- **Guiding Questions:**
+  1. Determining the most important factor in survival during the Titanic incident.
+  2. Analyzing if there is evidence of preferential treatment for upper-class passengers in lifeboat allocation.
+  3. Investigating the "Women and children first" protocol.
+  4. Adding any other observations noted in the dataset.
+

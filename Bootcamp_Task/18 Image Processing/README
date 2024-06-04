@@ -1,0 +1,35 @@
+# Image Processing
+
+## Description
+This README provides an overview of the tasks and instructions related to image processing, particularly focusing on building an image recognition classifier for house numbers.
+
+## Tasks Covered
+1. **Image Data Loading and Processing:**
+   - Load the Housenumbers dataset with 531,131 images of house numbers cropped to 32x32 pixels in RGB format.
+   - Convert images into a 4D matrix for processing.
+
+2. **Feature Processing:**
+   - Flatten the images to create a feature vector for machine learning.
+   - Utilize the scikit-learn library to access and preprocess the dataset.
+   
+3. **Model Training:**
+   - Implement a Random Forest classifier for training on the processed dataset.
+   - Split the data into training and testing sets.
+   - Train the model on the training set.
+
+4. **Model Evaluation:**
+   - Test the trained model on new data to predict house numbers.
+   - Evaluate the model accuracy using metrics like precision, recall, and F1-score.
+   - Provide insights into classes where the model struggles the most.
+
+5. **Additional Instructions for MNIST Dataset:**
+   - Explore the MNIST database for hand-written digits.
+   - Create a Random Forest model using the MNIST dataset.
+   - Conduct parameter tuning and testing for model optimization.
+
+## How to Use
+1. Clone the repository or download the necessary dataset files.
+2. Install Python and required libraries such as scikit-learn, numpy, and matplotlib.
+3. Run the provided Jupyter notebooks or Python scripts for image processing tasks.
+4. Follow the detailed steps outlined in the tasks to load, process, train, and evaluate the image recognition model.
+

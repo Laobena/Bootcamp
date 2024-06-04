@@ -1,0 +1,39 @@
+# Getting Started with Python
+
+## Description
+This document provides an introduction to Python programming concepts and practical tasks for beginners. It covers topics such as variables, data types, printing, user input, and basic operations.
+
+## Practical Tasks
+
+### Practical Task 1
+- **Objective**: Create folders and navigate through directories.
+- **File**: `file_cd.bat` (Windows) / `file_cd.sh` (Linux/macOS)
+- **Instructions**: 
+  - Create three new folders.
+  - Navigate inside one folder, create three new folders, and remove two previously created folders.
+
+### Practical Task 2
+- **Objective**: Output user's name, age, and print "Hello World!".
+- **File**: `hello_world.py`
+- **Instructions**: 
+  - Use `input()` to get user's name and age.
+  - Print the user's name, age, and "Hello World!" on separate lines.
+
+### Practical Task 3
+- **Objective**: Gather user details and display as a sentence.
+- **File**: `details.py`
+- **Instructions**: 
+  - Gather user's Name, Age, House Number, and Street Name using `input()`.
+  - Print out a sentence detailing the user's information.
+
+### Practical Task 4
+- **Objective**: Convert variables to different data types.
+- **File**: `conversion.py`
+- **Instructions**: 
+  - Declare variables and convert them to different data types: integer, float, string.
+  - Print out all variables on separate lines.
+
+## Additional Information
+- This document covers basic Python programming concepts such as variables, data types, and user interactions.
+- There are practical tasks provided to help you practice and apply what you've learned.
+- Feel free to explore the references for more information on MacOS/Linux Command Terminal.

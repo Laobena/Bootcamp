@@ -1,0 +1,34 @@
+# Iteration with Python
+This README provides a structured overview of the tasks and concepts covered in the document.
+
+## Tasks Covered
+1. **Iteration Fundamentals:**
+    - Introduction to while and for loops.
+    - George Boole's contribution to Boolean algebra.
+    - Explanation of loop statements like break and continue.
+
+2. **Loop Structures:**
+    - While Loop: Iterates based on a condition.
+    - For Loop: Iterates over a sequence a set number of times.
+
+3. **Efficiency and Maintenance:**
+    - Importance of loops in reducing repetition and maintaining code.
+    - Scalability considerations for handling larger iterations.
+
+4. **Special Loop Statements:**
+    - Break Statement: Exits a loop under specific conditions.
+    - Continue Statement: Skips to the next iteration based on a condition.
+
+5. **Avoiding Infinite Loops:**
+    - Caution against creating loops that run indefinitely.
+
+6. **Nested Loops:**
+    - Understanding nested loops for complex iterations.
+    - Interaction between inner and outer loops in nested structures.
+
+7. **Tracing Tables:**
+    - Use of trace tables for logic checks in nested loops.
+
+## Practical Tasks
+- Task 1: Create a program in `while.py` to calculate the average of user-entered numbers, stopping at -1.
+- Task 2: Generate a pattern using if-else in a for loop in `pattern.py`.

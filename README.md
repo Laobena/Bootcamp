@@ -1,40 +1,66 @@
+# Road to Learning Data Science
 
-# Bootcamp Tasks
+Welcome to your journey towards mastering Data Science! This repository contains a comprehensive roadmap and tasks to guide you through various aspects of data science using Python.
 
-## Description
+## Getting Started with Python
+1. Introduces Python programming concepts with practical tasks covering variables, data types, printing, user input, and basic operations. Practical tasks include creating folders, outputting user details, and converting variables to different data types.
 
-Description
+## Data Types and Conditional Statements
+2. Provides solutions for Python programming tasks involving conditional statements. Tasks include determining awards based on triathlon times, performing calculations with user-entered integers, and manipulating strings.
 
-This repository contains code and documentation for completing various tasks as part of a bootcamp program. Each task has a unique number, description, status, review dates, and progress score. 
-The repository also includes a README file for each task that provides additional information and instructions.
+## Iteration with Python
+3. Offers a structured overview of iteration fundamentals, loop structures, efficiency, and maintenance in Python programming. It covers special loop statements, avoiding infinite loops, nested loops, and tracing tables. Practical tasks involve calculating averages and generating patterns using loops.
 
-For more details about the bootcamp program, visit here.
-https://www.hyperiondev.com/portfolio/VL24010013238/
+## Programming with User-defined Functions
+4. Focuses on user-defined functions in Python, covering function basics, scopes, default values, and practical tasks. Instructions are provided for calculating total holiday cost using user-defined functions.
 
-## Table of Contents
+## Python Programming: Handling Strings, Lists, and Dictionaries
+5. Presents practical examples and explanations for handling strings, lists, and dictionaries in Python. Tasks include working with string methods, list operations, list comprehensions, nested lists, dictionaries, and practical coding tasks.
 
-- [Task 2 - Getting Started with Your Bootcamp](#task-2---getting-started-with-your-bootcamp)
-- [Task 3 - Data Types and Conditional Statements](#task-3---data-types-and-conditional-statements)
-- [Task 4 - Iteration](#task-4---iteration)
-- [Task 5 - Build Your Brand: Technical Portfolio](#task-5---build-your-brand-technical-portfolio)
-- [Task 6 - Programming with User-defined Functions](#task-6---programming-with-user-defined-functions)
-- [Task 7 - Handling Strings, Lists and Dictionaries](#task-7---handling-strings-lists-and-dictionaries)
-- [Task 8 - File IO Operations](#task-8---file-io-operations)
-- [Task 9 - OOP - Classes](#task-9---oop---classes)
-- [Task 10 - Build Your Brand: Preparing to Enter the Job Market](#task-10---build-your-brand-preparing-to-enter-the-job-market)
-- [Task 11 - Datasets and DataFrames](#task-11---datasets-and-dataframes)
-- [Task 12 - Data Visualisation - Simple](#task-12---data-visualisation---simple)
-- [Task 13 - Data Analysis - Data Cleaning](#task-13---data-analysis---data-cleaning)
-- [Task 14 - Data Analysis - Preprocessing](#task-14---data-analysis---preprocessing)
-- [Task 15 - Exploratory Data Analysis](#task-15---exploratory-data-analysis)
-- [Task 16 - Build Your Brand: The Job Search](#task-16---build-your-brand-the-job-search)
-- [Task 17 - Simple Linear Regression & Machine Learning](#task-17---simple-linear-regression--machine-learning)
-- [Task 18 - Multiple Linear Regression](#task-18---multiple-linear-regression)
-- [Task 19 - Logistic Regression](#task-19---logistic-regression)
-- [Task 20 - Supervised learning - Decision Trees](#task-20---supervised-learning---decision-trees)
-- [Task 21 - Supervised learning - Random Forests](#task-21---supervised-learning---random-forests)
-- [Task 22 - Image Processing](#task-22---image-processing)
-- [Task 23 - Unsupervised Learning - K-means Clustering](#task-23---unsupervised-learning---k-means-clustering)
-- [Task 24 - Exploring Neural Networks](#task-24---exploring-neural-networks)
-- [Task 25 - Build Your Brand: Getting Interview-fit](#task-25---build-your-brand-getting-interview-fit)
-- [Task 26 - Natural Language Processing with SpaCy](#task-26---natural-language-processing-with-spacy)
+## File I/O Operations in Python
+6. Covers essential concepts and practical tasks related to file input/output operations in Python. Tasks involve file opening methods, reading and writing files, directory handling, and considerations for file encoding.
+
+## Object-Oriented Programming (OOP) - Python Classes Overview
+7. Focuses on Object-Oriented Programming (OOP) concepts, specifically classes in Python. It covers understanding OOP fundamentals, defining classes and objects, instance variables, class variables, implementing class methods, and practical application.
+
+## Pandas DataFrames in Jupyter Notebooks
+8. Provides examples and tasks related to working with Pandas DataFrames in Jupyter Notebooks for data manipulation and analysis. Tasks include selecting, filtering, sorting data, performing statistical analysis, and grouping data in Pandas.
+
+## Data Visualisation Tasks
+9. Repository focused on data visualization using Matplotlib and Seaborn.
+
+## Data Analysis - Data Cleaning Tasks
+10. Covers practical aspects of data cleaning with examples and tools like `fuzzywuzzy`.
+
+## Data Analysis - Preprocessing Tasks
+11. Tasks related to preprocessing data, handling categorical data, missing values, and features scaling.
+
+## Exploratory Data Analysis Tasks
+12. Resources and tasks for Exploratory Data Analysis (EDA) on real-world datasets.
+
+## Simple Linear Regression & Machine Learning
+13. Materials and code examples focusing on simple linear regression, multiple linear regression, and machine learning concepts.
+
+## Multiple Linear Regression in Supervised Learning
+14. Understanding and implementing multiple linear regression with tasks on dataset splitting, error assessment, and model evaluation.
+
+## Supervised Learning with Logistic Regression
+15. Materials focusing on logistic regression for classification tasks with a practical task using the Iris dataset.
+
+## Supervised Learning - Decision Trees
+16. Tasks and materials for supervised learning with decision trees, covering classification, regression, overfitting, pruning, and model evaluation.
+
+## Supervised Learning - Random Forests Tasks
+17. Covers supervised learning techniques including Random Forests, Ensemble methods, Bagging, and Boosting.
+
+## Image Processing
+18. Tasks involve loading and processing image data, feature processing, model training using Random Forest classifier, and model evaluation for house number recognition.
+
+## Unsupervised Learning - K-means Clustering Task
+19. Focuses on K-means Clustering with tasks including data preprocessing, determining optimal clusters, visualizing clusters, and labeling country groups.
+
+## Exploring Neural Networks
+20. Includes tasks on understanding neural networks, building feedforward neural networks, modeling logic gates, and practical assignments.
+
+## Natural Language Processing with SpaCy
+21. Tasks cover sentiment analysis model implementation, working with vectors, question answering systems, and a practical task on sentiment analysis of product reviews.
